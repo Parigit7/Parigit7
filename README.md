@@ -1,4 +1,4 @@
-## Hi 👋, i'm Parindya Hewage
+## Hi 👋, I'm Parindya Hewage
 
 <!--
 **Parigit7/Parigit7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
