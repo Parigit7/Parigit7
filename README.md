@@ -27,44 +27,72 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-### 🏥 Healthify – Healthcare Monitoring System
-✨ Secure role-based system with JWT  
-📅 Clinic booking + reminders  
-📄 QR-based digital prescriptions  
+---
 
-**Tech:** Spring Boot | React | MySQL  
+### 🏥 Healthify – Healthcare Monitoring System  
+<p>
+  🔐 <b>Secure role-based authentication</b> using JWT <br>
+  📅 Clinic booking & reminders system <br>
+  📄 QR-based digital prescriptions <br>
+  🧑‍⚕️ Patient & doctor management  
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SpringBoot-FF69B4?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
-### 🛒 POS System (Desktop App)
-🧾 Billing & inventory system  
-📊 Sales reports & analytics  
-🔐 Role-based authentication  
+### 🛒 POS System – Desktop Application  
+<p>
+  🧾 Billing automation & sales processing <br>
+  📦 Real-time inventory management <br>
+  📊 Dynamic sales reports <br>
+  🔐 Role-based authentication  
+</p>
 
-**Tech:** C# | .NET | SQL  
-
----
-
-### 💼 IDEA HUB – Marketing Management System
-👥 Employee & task management  
-💰 Salary tracking system  
-📱 Modern responsive UI  
-
-**Tech:** React | Spring Boot | MySQL  
+<p>
+  <img src="https://img.shields.io/badge/CSharp-FF69B4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-FF69B4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
 ---
 
-### 🎵 Symphony Music Institute Website
-🌐 Real client project  
-📱 Fully responsive UI  
+### 💼 IDEA HUB – Digital Marketing Management System  
+<p>
+  👥 Admin & Employee management system <br>
+  📋 Task tracking & performance monitoring <br>
+  💰 Salary & payment management <br>
+  📱 Fully responsive UI  
+</p>
 
-**Tech:** React | Tailwind | Express  
+<p>
+  <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-FF69B4?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
+### 🎵 Symphony Music Institute – Client Project  
+<p>
+  🌐 Responsive website for real client <br>
+  📚 Course & instructor showcase <br>
+  📱 Cross-device compatibility  
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-FF69B4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-FF69B4?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
