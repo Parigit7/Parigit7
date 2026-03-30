@@ -23,9 +23,7 @@
 ## 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,c,react,tailwind,spring,mysql,mongodb,docker,git,github,linux,postman&theme=light" />
-
+  <img src="https://skillicons.dev/icons?i=java,js,c,react,tailwind,spring,mysql,mongodb,docker,git,github,linux,postman&theme=light" />
 </p>
 
 ---
@@ -87,6 +85,14 @@
 
 ---
 
+## 🐍 Contribution Graph (Snake Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
 ## 🏆 Achievements
 
 <p align="center">
@@ -111,12 +117,4 @@
 
 ---
 
-## 💖 Fun Touch
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer"/>
-</p>
-
----
-
-⭐ *“Turning ideas into real-world applications”*
+⭐ *Turning ideas into real-world applications 🚀*
